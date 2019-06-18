@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://prudmattech.github.io/idscan/static/css/main.46624fe2.chunk.css",
+    "main.js": "https://prudmattech.github.io/idscan/static/js/main.1cc67321.chunk.js",
+    "main.js.map": "https://prudmattech.github.io/idscan/static/js/main.1cc67321.chunk.js.map",
+    "runtime~main.js": "https://prudmattech.github.io/idscan/static/js/runtime~main.d74b69d0.js",
+    "runtime~main.js.map": "https://prudmattech.github.io/idscan/static/js/runtime~main.d74b69d0.js.map",
+    "static/js/2.5ef2cd62.chunk.js": "https://prudmattech.github.io/idscan/static/js/2.5ef2cd62.chunk.js",
+    "static/js/2.5ef2cd62.chunk.js.map": "https://prudmattech.github.io/idscan/static/js/2.5ef2cd62.chunk.js.map",
+    "index.html": "https://prudmattech.github.io/idscan/index.html",
+    "precache-manifest.e2eaf0c14642a82cfa8a87e561236e9a.js": "https://prudmattech.github.io/idscan/precache-manifest.e2eaf0c14642a82cfa8a87e561236e9a.js",
+    "service-worker.js": "https://prudmattech.github.io/idscan/service-worker.js",
+    "static/css/main.46624fe2.chunk.css.map": "https://prudmattech.github.io/idscan/static/css/main.46624fe2.chunk.css.map",
+    "static/media/card_back@3x.png": "https://prudmattech.github.io/idscan/static/media/card_back@3x.0c724885.png",
+    "static/media/illustration1@3x.png": "https://prudmattech.github.io/idscan/static/media/illustration1@3x.d268a33d.png",
+    "static/media/illustration2@3x.png": "https://prudmattech.github.io/idscan/static/media/illustration2@3x.406cb2b9.png",
+    "static/media/image_correct.jpg": "https://prudmattech.github.io/idscan/static/media/image_correct.5e4db527.jpg",
+    "static/media/scan_process.gif": "https://prudmattech.github.io/idscan/static/media/scan_process.0b1f3e62.gif"
+  }
+}
